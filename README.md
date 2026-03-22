@@ -1,4 +1,4 @@
-# 🚀 Gig Economy Demand Intelligence Dashboard
+# 🚀 Quantitative Analysis of Demand-Driven Income Volatility in Platform-Based Gig Economies
 
 ## 📌 Overview
 
